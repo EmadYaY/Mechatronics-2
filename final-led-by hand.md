@@ -1,4 +1,4 @@
-**Real-time Hand Gesture Detection and Control**
+**Real-time Hand Gesture Detection and Control:**
 
 **Objective:**
 - Our goal is to develop a system that can track hand gestures from a live video feed, determine the number of fingers raised, and control external devices, such as LEDs, based on the detected gestures.
@@ -14,10 +14,10 @@
    - We create an instance of the `HandDetector` class with specific parameters to detect hands in the video feed.
 
 3. **Accessing Webcam Feed:**
-   - Our program establishes a connection to the webcam to capture live video frames.
+   - Our program connects to the webcam to capture live video frames.
 
 4. **Processing Video Feed:**
-   - We enter an infinite loop to continuously process frames from the webcam.
+   - We enter an infinite loop to process frames from the webcam continuously.
    - Each frame is read from the video feed, and we correct for the mirror effect by flipping the frame horizontally.
 
 5. **Hand Detection:**
@@ -32,7 +32,9 @@
 
 8. **Exiting the Program:**
    - The program terminates gracefully when the user presses the 'k' key.
-   - Once the loop exits, the video capture device is released, and OpenCV windows are closed.
+   - The video capture device is released once the loop exits, and OpenCV windows are closed.
 
 **Conclusion:**
 - In conclusion, our Python program demonstrates the real-time detection of hand gestures, making it an excellent educational tool for beginners interested in image processing and human-computer interaction.
+
+  Fazel Mohammad Ali Pour
