@@ -1,9 +1,10 @@
 # Mechatronics-2
 Hand Tracker Project by Python and Arduino Board
+<video src="https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary%20of%20the%20workflow.mp4" controls title="Title"></video>
 
-[![Watch the video](https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/1.jpg)](https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary%20of%20the%20workflow.mp4)
 
---
+
+
 این پروژه جهت ارائه درس مکاترونیک-2 ساخته شده.
 فاضل محمد علی پور - مرداد 1403
 -
