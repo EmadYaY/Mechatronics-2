@@ -1,13 +1,14 @@
 # Mechatronics-2
 Hand Tracker Project by Python and Arduino Board
 
-![Hand Tracker Project by Python and Arduino Board](1.jpg "https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary-of-the-workflow.mp4")
-<video src="https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary-of-the-workflow.mp4" controls="controls" style="max-width: 730px;"></video>
+![Hand Tracker Project by Python and Arduino Board](1.jpg "Hand Tracker Project")
 
+## Videos:
+1. [summary of the workflow](https://www.youtube.com/watch?v=FjgbC7v-jzQ)
+
+2. [Adding And Installing The Requirement Libs](https://www.youtube.com/watch?v=QgdcXRY91Lw)
 
 ---
-
-
 
 این پروژه جهت ارائه درس مکاترونیک-2 ساخته شده.
 فاضل محمد علی پور - مرداد 1403
@@ -18,4 +19,4 @@ Fazel Mohammad Alipour - July 2024
 -
 
 ### Socials🌐🔗:
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmadYaY)
