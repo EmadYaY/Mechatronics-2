@@ -1,7 +1,11 @@
 # Mechatronics-2
 Hand Tracker Project by Python and Arduino Board
-<video src="https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary%20of%20the%20workflow.mp4" controls title="Title"></video>
 
+![Hand Tracker Project by Python and Arduino Board](1.jpg "https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary-of-the-workflow.mp4")
+<video src="https://raw.githubusercontent.com/EmadYaY/Mechatronics-2/main/summary-of-the-workflow.mp4" controls="controls" style="max-width: 730px;"></video>
+
+
+---
 
 
 
