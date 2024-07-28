@@ -1,0 +1,3 @@
+pyfirmata2
+mediapipe
+cv2
