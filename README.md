@@ -11,11 +11,11 @@ Hand Tracker Project by Python and Arduino Board
 ---
 
 این پروژه جهت ارائه درس مکاترونیک-2 ساخته شده.
-فاضل محمد علی پور - مرداد 1403
+مرداد 1403
 -
 
 This project was created to provide Mechatronics-2 lessons.
-Fazel Mohammad Alipour - July 2024
+July 2024
 -
 
 ### Socials🌐🔗:
