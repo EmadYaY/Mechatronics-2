@@ -1,3 +1,4 @@
-pyfirmata2
-mediapipe
 cv2
+mediapipe==0.10.9
+opencv-python
+pyfirmata2
